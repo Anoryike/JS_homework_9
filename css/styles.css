@@ -1,0 +1,25 @@
+.btn {
+  padding: 12px 18px;
+  margin-bottom: 10px;
+  width: 140px;
+  background-color: green;
+  border-radius: 5px;
+}
+
+.btn:hover {
+  background-color: red;
+}
+
+.parent {
+  padding: 40px;
+  margin-top: 20px;
+  width: 700px;
+  border: 1px solid red;
+}
+
+.child {
+  padding: 25px;
+  margin: 0 auto 20px;
+  width: 400px;
+  border: 1px solid orange;
+}
